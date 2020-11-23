@@ -4,7 +4,7 @@
 
 #### This is demo is created using only a small subset of the data from the project
 
-Excess the cloud deployment on: https://quit-attempt-prediction-api.herokuapp.com/predict
+Excess the cloud deployment on: https://quit-attempt-prediction-api.herokuapp.com/
 
 ## Ongoing
 
